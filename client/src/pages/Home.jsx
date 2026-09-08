@@ -56,7 +56,7 @@ const Home = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
         >
-          Hey, Viraj Here
+          Hey, I'm Viraj.
         </motion.h1>
 
         <motion.h2
